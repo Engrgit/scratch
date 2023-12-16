@@ -10,3 +10,5 @@ I implement machine learning algorithms from scratch
 Youtube ► https://www.youtube.com/channel/UCP2rX6GiY3HQLqKwdPu1btQ     
 Blog ► http://ibrahimgbadegesin.blogspot.com      
 
+LLM Reading list
+RAG ► https://vinija.ai/nlp/RAG/
