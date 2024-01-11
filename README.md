@@ -6,4 +6,5 @@ LLM Reading list
 RAG ► https://vinija.ai/nlp/RAG/
 
 OpenAI prompt Engineering Guide ► https://platform.openai.com/docs/guides/prompt-engineering
+
 Large scale system design
